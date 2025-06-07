@@ -50,7 +50,7 @@ The trained model can successfully **identify high-probability customers**, enab
 
 The dataset used in this project is publicly available on Kaggle:
 
-🔗 [Customer Intention - Travel Package Prediction | Kaggle]([https://www.kaggle.com/datasets/shubhammehta21/customer-intention-prediction](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction))
+🔗 [Holiday Package Purchase Prediction – Kaggle](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction)
 
 ---
 
