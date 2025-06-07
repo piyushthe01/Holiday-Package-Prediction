@@ -46,3 +46,11 @@ The trained model can successfully **identify high-probability customers**, enab
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+🔗 [Customer Intention - Travel Package Prediction | Kaggle](https://www.kaggle.com/datasets/shubhammehta21/customer-intention-prediction)
+
+---
+
